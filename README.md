@@ -1,1 +1,1 @@
-https://hidatdev133.github.io/resume/
+(https://hidatdev133.github.io/resume/myCV.pdf)
